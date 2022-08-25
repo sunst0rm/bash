@@ -1,0 +1,1 @@
+## This is a repository with various bash scripts used for automation of small tasks
